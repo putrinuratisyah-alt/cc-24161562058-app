@@ -1,7 +1,7 @@
 <?php
 // Buku tamu (aplikasi acuan P5 sampai Tugas Besar): PHP + PDO + PostgreSQL.
 // Konfigurasi dari environment variable DATABASE_URL (P5 slide 24).
-const PEMILIK = "<24161562058> - <Putri Nur Atisyah>";   // ganti dengan NIM dan nama sendiri
+const PEMILIK = "24161562058 - Putri Nur Atisyah";   // ganti dengan NIM dan nama sendiri
 const VERSI = "1.0";               // dinaikkan saat rolling update (P8)
 
 // DATABASE_URL = postgresql://user:pass@host:5432/db?sslmode=require
